@@ -31,6 +31,9 @@ python-dotenv
 # Running the App
 
 To launch the IRRIGREAT app, use the following command:
+pip install streamlit-option-menu
+pip install python-dotenv
+pip install firebase-admin
 streamlit run main.py
 
 # Module Descriptions
